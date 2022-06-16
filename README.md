@@ -28,7 +28,7 @@ Notebook contains the EDA, data processing, and model building ideas.
 
 | Notebook | Colab | Kaggle |
 | ------ | ------ | ------ |
-| CO2 Emission | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d0r1h/CO2-Emission-by-Cars/blob/main/notebook/co2-emission-by-cars.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/undersc0re/co2-emission-by-cars) |
+| CO2 Emission | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ranjani1998/CO2-Emission-by-Cars/blob/main/co2-emission-by-cars.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/undersc0re/co2-emission-by-cars) |
 
 ### Models
 We experimented with different methods for model building 
@@ -55,7 +55,7 @@ We experimented with different methods for model building
 ```python
 conda create -n envname python=3.7
 activate envname
-git clone https://github.com/d0r1h/CO2-Emission-by-Cars.git
+git clone https://github.com/Ranjani1998/CO2-Emission-by-Cars
 cd CO2-Emission-by-Cars
 pip install -r requirements.txt
 python app.py
