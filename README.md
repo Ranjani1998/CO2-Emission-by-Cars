@@ -13,12 +13,12 @@ The task is to build a machine learning model to predict CO2 emissions by differ
 
 Project also aims at testing the influence of different independent features on the emission of CO2 using statistical methods. 
 
-<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/co2_emission.gif" width = 200>
+<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/Static/co2_emission.gif" width = 200>
 
 ### DataSet:
 
 * The dataset has been taken from the Canada Government official open data website and is available in [kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
-* Cleaned and processed version of the data can be accessed from [here](https://raw.githubusercontent.com/d0r1h/CO2-Emission-by-Cars/main/final_co2.csv)
+* Cleaned and processed version of the data can be accessed from [here](https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/final_co2.csv)
 * Dataset contains 7385 datapoints and 12 columns.
 
 
@@ -28,7 +28,7 @@ Notebook contains the EDA, data processing, and model building ideas.
 
 | Notebook | Colab | Kaggle |
 | ------ | ------ | ------ |
-| CO2 Emission | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ranjani1998/CO2-Emission-by-Cars/blob/main/co2-emission-by-cars.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/undersc0re/co2-emission-by-cars) |
+| CO2 Emission | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ranjani1998/CO2-Emission-by-Cars/blob/main/Notebook/co2-emission-by-cars.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/undersc0re/co2-emission-by-cars) |
 
 ### Models
 We experimented with different methods for model building 
@@ -40,7 +40,7 @@ We experimented with different methods for model building
 
 ## Project Pipeline
 
-<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/C02_Arch_Diagram.png" width = 800>
+<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/Static/C02_Arch_Diagram.png" width = 800>
 
 
 
@@ -69,7 +69,7 @@ python app.py
 * Following image shows score table for different models
 
 
-<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/co2_score.png" width = 800> 
+<img src = "https://github.com/Ranjani1998/CO2-Emission-by-Cars/blob/main/Static/co2_score.png" width = 800> 
 
 
 ### Inference Demo:
